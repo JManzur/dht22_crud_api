@@ -8,6 +8,8 @@
 
 ## Initialization How-To:
 
+Create a filie called "db_cred.yml" inside the "config" folder, with the followinf 
+
 ## Deployment How-To:
 
 ## Debugging / Troubleshooting:
@@ -25,4 +27,8 @@
 
 ## Documentation
 
-- [EXAMPLE](URL)
+- FastAPI
+- SQLAlchemy
+- PyYAML
+- PyMySQL
+
