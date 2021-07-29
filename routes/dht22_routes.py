@@ -1,7 +1,7 @@
 from fastapi import APIRouter
 from config.db import conn
 from models.dht22_model import dht22_table
-from schemas.sensor_data import DHT22Model
+from schemas.table_model import DHT22Model
 
 dht22 = APIRouter()
 

@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from routes.dht22 import dht22
+from routes.dht22_routes import dht22
 
 app = FastAPI()
 
